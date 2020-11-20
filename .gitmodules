@@ -1,3 +1,18 @@
 [submodule "OpenNRE"]
 	path = OpenNRE
 	url = https://github.com/bidishasamantakgp/OpenNRE.git
+[submodule "FewRel"]
+	path = FewRel
+	url = https://github.com/bidishasamantakgp/FewRel.git
+[submodule "crnn-relation-classification"]
+	path = crnn-relation-classification
+	url = https://github.com/bidishasamantakgp/crnn-relation-classification.git
+[submodule "RESIDE"]
+	path = RESIDE
+	url = https://github.com/bidishasamantakgp/RESIDE.git
+[submodule "SpanBERT"]
+	path = SpanBERT
+	url = https://github.com/bidishasamantakgp/SpanBERT.git
+[submodule "entity-aware-relation-classification"]
+	path = entity-aware-relation-classification
+	url = https://github.com/bidishasamantakgp/entity-aware-relation-classification.git

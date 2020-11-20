@@ -16,3 +16,6 @@
 [submodule "entity-aware-relation-classification"]
 	path = entity-aware-relation-classification
 	url = https://github.com/bidishasamantakgp/entity-aware-relation-classification.git
+[submodule "HNRE"]
+	path = HNRE
+	url = https://github.com/bidishasamantakgp/HNRE.git
